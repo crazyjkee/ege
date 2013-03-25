@@ -9,7 +9,7 @@ public class C4Collection{
 	Collections.sort(ll,r);
 	System.out.print("Список отсортирован в обратном порядке:");
 	display(ll);
-	Collections.shuffle(ll);
+	Collections.shuffle(ll);//Перемешать
 	System.out.println();
 	//Отобразить перемешанный список.
 	System.out.print("Список перемешан: ");
